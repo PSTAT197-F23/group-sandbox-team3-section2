@@ -1,0 +1,25 @@
+---
+title: "Fun Fact"
+author: "Lu Liu"
+date: "`r format(Sys.Date(), '%B %d, %Y')`"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, echo=FALSE}
+library(knitr)
+# set global chunk options: images will be 7x5 inches
+knitr::opts_chunk$set(fig.width=7, fig.height=5)
+options(digits = 4)
+```
+
+```{r, include=FALSE}
+# for debugging latex
+options(tinytex.verbose = TRUE)
+```
+
+Fun Facts about my myself:
+1. I enjoy making pottery.
+2. I know five languages. 
