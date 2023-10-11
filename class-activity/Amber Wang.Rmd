@@ -1,0 +1,14 @@
+---
+title: "Amber Wang"
+author: "Amber Wang"
+date: "2023-10-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Fun Fact
+1. I can fall asleep instantly.
+2. I didn't know I have allergy to pineapple until I was 18.
