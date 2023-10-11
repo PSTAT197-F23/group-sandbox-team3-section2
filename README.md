@@ -1,5 +1,5 @@
 # sandbox
+Repo for Team 3 on Section 2 for class activity on git and github in pstat197a
 
-template repo for class activity on git and github in pstat197a
-
-updated october 2023
+# Team Member: 
+Amber Wang, Amy Lyu, David Lin, Lu Liu, Christopher Zhao
