@@ -12,5 +12,3 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Fun Fact
 1. This is a fact.
 2. This is not a fun fact.
-3. small change.
-4. additional change.
