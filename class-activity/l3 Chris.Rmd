@@ -1,0 +1,14 @@
+---
+title: "fanfact"
+author: "chris"
+date: "2023-10-12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Fun Fact
+1. This is a fact.
+2. This is not a fun fact.
