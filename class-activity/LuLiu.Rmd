@@ -23,3 +23,5 @@ options(tinytex.verbose = TRUE)
 Fun Facts about my myself:
 1. I enjoy making pottery.!
 2. I know five languages. 
+
+What is your favorite fruit?
