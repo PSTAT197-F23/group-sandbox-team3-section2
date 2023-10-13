@@ -12,3 +12,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Fun Fact
 1. I can fall asleep instantly.
 2. I didn't know I have allergy to pineapple until I was 18.
+
+Chris: What is your favorite fruit?
