@@ -15,4 +15,12 @@ Never do sports on ICE
 2. fun fact:
 I lived in Beijing and Shenzhen.
 
+<<<<<<< HEAD
 11
+=======
+YisiLyu's question to David:
+What is your favorite animal? 
+
+Amber's Question:
+What is your favorite color?
+>>>>>>> 1c6c9c066e65b4f897f6f04e6a84240984dd402f
